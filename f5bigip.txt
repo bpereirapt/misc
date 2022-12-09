@@ -1,0 +1,1 @@
+f5bigip_geodb="https://downloads05.f5.com/esd/download.sv?loc=downloads05.f5.com/downloads/62c06038-e5dc-4065-ac99-36b338fe2286/ip-geolocation-v2-2.0.0-20221205.16.0.zip"
