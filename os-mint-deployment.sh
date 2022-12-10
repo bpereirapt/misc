@@ -25,3 +25,8 @@ sudo journalctl --vacuum-time=1s
 
 sudo apt-get remove --autoremove flatpak
 sudo apt-get purge flatpak
+
+### update
+
+sudo apt-get update -y
+sudo apt-get upgrade -y
