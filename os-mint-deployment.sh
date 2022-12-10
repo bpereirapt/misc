@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# set sudoers
+### set sudoers
 
 cat <<EOF >>/etc/sudoers.d/bpereira
 bpereira  ALL=(ALL) NOPASSWD:ALL
@@ -8,7 +8,7 @@ EOF
 
 chmod 0440 /etc/sudoers.d/bpereira
 
-# disable flatpak
+### disable flatpak
 
 flatpak list
 flatpak uninstall --all
