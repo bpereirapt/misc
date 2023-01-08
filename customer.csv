@@ -1,4 +1,0 @@
-timestamp="2022-10-31",service="all",type="ip",source="1.1.1.3",action="log"
-timestamp="2022-10-31",service="all",type="ip",source="1.1.1.4",action="log"
-timestamp="2022-11-01",service="all",type="ip",source="1.1.1.5",action="deny"
-timestamp="2022-11-01",service="all",type="ip",source="1.1.1.6",action="deny"
